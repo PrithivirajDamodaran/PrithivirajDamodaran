@@ -1,6 +1,6 @@
 # Hi there 👋  welcome to my page
 
-![Prithivida's GitHub stats](https://github-readme-stats.vercel.app/api?username=PrithivirajDamodaran&show_icons=true&theme=gradient)
+![Prithivida's GitHub stats](https://github-readme-stats.vercel.app/api?username=PrithivirajDamodaran&show_icons=true&theme=radical)
 
 
 
