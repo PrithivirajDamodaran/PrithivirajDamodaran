@@ -9,3 +9,5 @@ I thrive in the world of ideas, design and development. That's where the most fu
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PrithivirajDamodaran)](https://github.com/PrithivirajDamodaran/github-readme-stats)
 
+[](https://user-images.githubusercontent.com/7071019/120894739-9f1e5c00-c637-11eb-9054-2702fa6e2912.png) [Follow me on twitter](https://twitter.com/prithivida)
+
