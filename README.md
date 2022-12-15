@@ -1,5 +1,6 @@
 # 👋  I am Prithivida !
-[![Visits Badge](https://badges.pufler.dev/visits/PrithivirajDamodaran/PrithivirajDamodaran)](https://badges.pufler.dev)
+[![visitors](https://visitor-badge.glitch.me/badge?page_id=PrithivirajDamodaran.count_visitors)](https://visitor-badge.glitch.me)
+
 
 I thrive in the world of ideas, design and development. That's where the most fun, creative, boundary-breaking work happens. I am a 4x USPTO individual patent inventor and I work on lot of NLP related research.
 
