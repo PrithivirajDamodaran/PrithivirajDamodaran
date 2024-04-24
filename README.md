@@ -3,7 +3,7 @@
 ![Visiters](https://visitor-badge.laobi.icu/badge?page_id=PrithivirajDamodaran.visitor-badge)
 
 
-I thrive in the world of ideas, design and development. That's where the most fun, creative, boundary-breaking work happens. I am a 4x USPTO individual patent inventor and I work on lot of NLP related research.
+25 Million+ Model downloads in 🤗 | Cited in NeurIPS, ICLR, ACL | 3K+ ⭐️ GitHub.
 
 <!-- <a href="https://github.com/sponsors/PrithivirajDamodaran" title="Sponsor PrithiviDa"><img src="/assets/sponsor.svg?sanitize=true" width="94" height="28" aria-hidden="true"></a> --> 
 
