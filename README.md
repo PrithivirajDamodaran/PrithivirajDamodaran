@@ -3,7 +3,7 @@
 ![Visiters](https://visitor-badge.laobi.icu/badge?page_id=PrithivirajDamodaran.visitor-badge)
 
 
-30 Million+ Model downloads in 🤗 | Cited in NeurIPS('22,'24), IEEE/CVF, ACL | 3K+ ⭐️ GitHub.
+32 Million+ Model downloads in 🤗 | Cited in NeurIPS('22,'24), IEEE/CVF, ACL | 3K+ ⭐️ GitHub.
 
 <!-- <a href="https://github.com/sponsors/PrithivirajDamodaran" title="Sponsor PrithiviDa"><img src="/assets/sponsor.svg?sanitize=true" width="94" height="28" aria-hidden="true"></a> --> 
 
